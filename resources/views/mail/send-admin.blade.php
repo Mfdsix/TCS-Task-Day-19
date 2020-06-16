@@ -1,0 +1,1 @@
+Blog Baru telah dibuat dengan judul <b>{{ $blog['title'] }}</b>
